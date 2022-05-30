@@ -1,0 +1,54 @@
+.container{
+  text-align: center;
+  width:50%;
+  padding-top: 50px;
+  
+}
+
+.container li{
+  float: left;
+  list-style-type: none;
+  padding:8px;
+
+
+}
+ul li {
+  display: inline;
+  float: left;
+  
+}
+ nav li a{
+   display: block;
+   padding: 8px;
+   background-color:  #333;
+   padding: 14px 16px;
+ }
+nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+ }
+ body{
+   background-color:  #E9ECEF ;
+ }
+.jumbatron .container{
+  list-style-position:inside;
+  background-color: #E9ECEF;
+  
+}
+.button{
+  position:relative;
+  background-color: aquamarine;
+  margin-top:10px;
+  
+  box-shadow:10px 10px;
+  
+}
+.card{
+  border-radius: 10px;
+  margin-top: 10px;
+  
+}
+ 
